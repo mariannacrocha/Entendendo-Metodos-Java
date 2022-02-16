@@ -1,5 +1,7 @@
 # Exercício aula 01 - curso Entendendo Métodos Java - DIO
 
+Exercício proposto para primeira parte do curso sobre métodos em Java , disponibilizado pela [DIO](https://web.dio.me/course/entendendo-metodos-java/learning/1d32857c-8137-4b87-8a1c-474300f71648/?back=/browse)
+
 
 
 > Exercício prático para fixação do conceito de métodos em Java
