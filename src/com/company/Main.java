@@ -22,5 +22,11 @@ public class Main {
         Emprestimo.calculaValorEmprestimo(3500, Emprestimo.getDuasParcelas());
         Emprestimo.calculaValorEmprestimo(240, Emprestimo.getTresParcelas());
 
+        //Classe Quadriláteros
+        System.out.println("Exercício Quadriláteros");
+        Quadrilateros.calculaArea(5);
+        Quadrilateros.calculaArea(4,2);
+        Quadrilateros.calculaArea(7,8,9);
+
     }
 }
